@@ -15,5 +15,3 @@ The Temperature Converter is a Java program that allows users to convert tempera
 
 **Technologies Used**
 - Java programming language
-- Standard Java libraries for input/output and mathematical calculations
-
